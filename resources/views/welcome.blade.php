@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Laravel</title>
+        <title>Recipe Box</title>
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
@@ -61,23 +61,7 @@
 
                             <div class="ml-12">
                                 <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">
-                                    All the ""MUST"", ""MAY"" and ""SHOULD"" words, with their negative forms, follow the standard defined in RFC2119.
-
-                                    <br/>Appointment calendar: develop a small web application that lets book a consulting appointment.
-
-                                    <br/><br/>In a day may be various appointments, each one lasts 1 hour and is set 30 minutes apart from the others. The consultants are available from Monday to Friday, 9:00-13:00, 15:30-21:00.
-
-                                    <br/>You MUST develop the front-office and the back-office;
-
-                                    <br/>You MUST use PHP (>= ) language and at least one AJAX call;
-
-                                    <br/>You MUST use any RDBMS (SQLite, MySQL, PostgreSQL);
-
-                                    <br/>You MUST use Laravel;
-
-                                    <br/>You MAY provide UML diagrams;
-
-                                    <br/>You SHOULD NOT focus on front-end/UI."
+                                    Objective: Build a Vue JS + Laravel app that is functionally similar to this: https://codepen.io/freeCodeCamp/full/dNVazZ/.
                                 </div>
                             </div>
                         </div>
