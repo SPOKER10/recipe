@@ -1,4 +1,4 @@
-This is a simple Laravel APP (Recipe System).
+This is a simple Laravel APP (Recipe System). Made with Laravel 8 and VUE 2.
 <hr>
 <img src="https://www.mihai-gabriel.ro/assets/img/recipe.png"/>
 <hr>
