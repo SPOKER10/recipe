@@ -1,4 +1,4 @@
-This is a simple Laravel APP (Recipe System) for job task.
+This is a simple Laravel APP (Recipe System).
 <hr>
 <img src="https://www.mihai-gabriel.ro/assets/img/recipe.png"/>
 <hr>
